@@ -1,7 +1,7 @@
 
 # MHGNN
 
-[KBS2026] The source codes and datasets for `Exploring High-order Correlations With Motif-based Hypergraph Neural Networks forEpidemic Forecasting`. Specifically, the codes are in the `\src`, while data is in the `\data`.
+The source codes and datasets for `Exploring High-order Correlations With Motif-based Hypergraph Neural Networks forEpidemic Forecasting`. Specifically, the codes are in the `\src`, while data is in the `\data`.
 
 
 ## 1. Introduction
