@@ -56,6 +56,7 @@ python src/train.py --cuda --gpu 0 --lr 0.005 --horizon 5 --khop_num 2 --KNNhop 
 + *lr*: learning rate.
 + *batch*: batch size.
 + *epoch*: the number of epochs of traning process.
++ *patience*: we conduct early stop with fixed patience.
 + *k*: dimension = k * 10.
 + *n*: number of hypergraph convolution layers.
 + *window*: length of the historical observation window.
