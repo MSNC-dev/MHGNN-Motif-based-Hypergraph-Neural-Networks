@@ -19,7 +19,7 @@ Experimental results demonstrate that our proposed model improves forecasting ac
 
 The Influenza-related datasets are released by [Cola-GNN](https://github.com/amy-deng/colagnn) and the COVID-related data is publicly avaliable at [JHU-CSSE](https://github.com/CSSEGISandData/COVID-19).
 
-### 2.1 Epidemic Statistics
+### 2.2 Motif Networks
 
 The motif networks are generated using PGD. We first download the [PGD](https://github.com/nkahmed/PGD) source code and fix bug according to issue. Then, the graph file in .mtx format is used as the input to PGD. For example, the following command can be used to generate the corresponding .micro file:
 
